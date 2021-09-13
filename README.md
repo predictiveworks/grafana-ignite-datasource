@@ -1,2 +1,4 @@
-# grafana-ignite-datasource
+
+# Grafana Ignite
+
 Apache Ignite Data Source Plugin for Grafana
